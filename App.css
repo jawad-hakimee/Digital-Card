@@ -1,0 +1,62 @@
+
+
+/* body{
+    height: 100vh;
+    background-color: black; 
+}  */
+
+
+
+body{
+    width: 550px;
+    height: 868px;
+    padding: 44px 117px 44px 116px;
+    background: #23252C;
+}
+header{
+    background-color: #1A1B21;
+    width: 18em;
+    height: 26em;
+    color: white;
+    text-align: center;
+}
+
+header img{
+    width: 18em;
+    border-radius: 4px;
+}
+header button{
+    width: 17em;
+    padding: 9px 13px 9px 11px;
+    border-radius: 6px 0px 0px 0px; 
+}
+.main{
+    background-color: #1A1B21;
+    color: white;
+    padding: 20px;
+    width: 247px;
+    height: 25em;
+}
+
+
+.icons{
+    padding: 1em;
+    display: flex;
+    justify-content: space-around;
+    background-color: #161619;
+    width: 255px;
+    height: 30px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.icons i {
+    width: 25px;
+    height: 25px;
+    font-size: 25px;
+    background-color: #918E9B;
+    padding: 3px;
+    border-radius: 2px; 
+}
